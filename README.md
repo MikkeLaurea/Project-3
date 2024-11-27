@@ -2,7 +2,7 @@
 Finnkino elokuva hakukone 2.0 made by Mikke Lehtimäki
 
 ## Linkit
-[Sovellus]()
+[Sovellus](https://incredible-gnome-c9bb52.netlify.app/)
 
 ## Table of content: 
 
