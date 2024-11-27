@@ -37,7 +37,7 @@ Yksinkertainen hakukone jolla voi hake Finnkinon tietokannasta eri teattereiden 
 Avaa sivusto ja etsi haluamasi elokuva ja teatteri tai selaa kaikkia elokuvia eri teattereista
 
 ## Krediitit
- - [W3schools](https://www.w3schools.com/js/js_ajax_intro.asp)
+ - [W3schools](https://www.w3schools.com/jquery/default.asp)
  - [Tekoäly] Joihinkin Jquery kohtiin joissa jumitin, enkä päässyt itse eteenpäin. 
  - [Canvas materiaalit]
 
