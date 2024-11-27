@@ -31,7 +31,7 @@ Yksinkertainen hakukone jolla voi hake Finnkinon tietokannasta eri teattereiden 
 - Bootstrap tyylittelyä
 
 ## Kuvakaappaus
-[Kuvakaappaus]()
+[Kuvakaappaus](https://cdn.discordapp.com/attachments/824259542216736771/1311307320575131731/image.png?ex=6748619c&is=6747101c&hm=575df05530786f0935403a82fea0074df8aa4ae729b3c63e9f1a543758902190&)
 
 ## Käyttöönotto
 Avaa sivusto ja etsi haluamasi elokuva ja teatteri tai selaa kaikkia elokuvia eri teattereista
